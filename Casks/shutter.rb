@@ -1,6 +1,6 @@
 cask "shutter" do
-  version "0.3.1"
-  sha256 "8de44761fa5fc81fc25c4b9fbb87362822b776eeb85cdd9f9d6aa6ee245e7a24"
+  version "0.3.2"
+  sha256 "ba7ce8746c0ae548315dc2e015dd576e902a624dc99c6833d62411e224eb0258"
 
   url "https://github.com/zahidhossin39/shutter/releases/download/v#{version}/Shutter_#{version}_universal.dmg"
   name "Shutter"
