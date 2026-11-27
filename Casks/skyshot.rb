@@ -1,6 +1,6 @@
 cask "skyshot" do
-  version "0.4.1"
-  sha256 "20ef14218032939062b738e69ff0c3f989ce330bba6dd422ca611ef2d7334fab"
+  version "1.0.8"
+  sha256 "84db5572bec3aad1a007d9c765ae65c1e399527801ffe5b7937710629a103dab"
 
   url "https://github.com/zahidhossin39/SkyShot/releases/download/v#{version}/Sky.Shot_#{version}_universal.dmg"
   name "Sky Shot"
